@@ -643,8 +643,8 @@ export default defineEventHandler(async (event) => {
             ]
         },
         {
-            short: "PLC",
-            name: "Paluch",
+            short: "FNG",
+            name: "Finger",
             subjects: [
                 "Deutsch",
                 "Religion",
