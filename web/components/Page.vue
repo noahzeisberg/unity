@@ -78,5 +78,4 @@
 
 <script setup lang="ts">
 import SidebarItem from "~/components/sidebar/SidebarItem.vue";
-const pageName = useRoute().path.replace("/", "").toUpperCase()
 </script>
