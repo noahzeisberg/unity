@@ -69,7 +69,7 @@ export default defineEventHandler(async (event) => {
     return {
         date: payload.date,
         lastUpdate: payload.lastUpdate,
-        rows: rows.filter((item) => item.class.includes("8G2")),
+        rows: rows.filter((item) => item.class.includes("9G2")),
     }
 })
 
